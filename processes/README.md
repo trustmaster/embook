@@ -28,4 +28,4 @@ Different ideas, concepts, and formats of retrospectives.
 
 |Situation|Recipe|
 |---------|------|
-|Forming a new team, integrating new team members, or performing a futurespective|[Dungeons and Dragons Retro](./retrospective/dungeons-and-dragons-retrospective)|
+|Forming a new team, integrating new team members, or performing a futurespective|[Dungeons and Dragons Retro](./retrospective/dungeons-and-dragons-retrospective.md)|
