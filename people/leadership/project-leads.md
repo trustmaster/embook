@@ -48,7 +48,7 @@ It is highly recommended to rotate the role of the Tech Lead from project to pro
 
 The role comes with a set of responsibilities or expectations. In a nutshell those include:
 
-1. ✋ **Collaborate** to collect all required information
+1. 🙌 **Collaborate** to collect all required information
 2. 📑 **Document** the solutions and decisions
 3. 🎫 **Structure** the tasks and provide estimates
 4. 👩‍💻 **Implement** their part of work or **delegate** it
@@ -58,7 +58,7 @@ The role comes with a set of responsibilities or expectations. In a nutshell tho
 
 Let's elaborate on each of these responsibilities to make them more clear.
 
-### ✋ Collaborate to collect all required information
+### 🙌 Collaborate to collect all required information
 
 Project Lead is a driver of project-related conversations, as their goal is to ensure that all information required for the project to succeed is collected and shared among all the participants.
 
