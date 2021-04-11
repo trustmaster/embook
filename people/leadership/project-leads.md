@@ -112,11 +112,11 @@ As many songs go: you're not alone! Leading something actually means achieving i
 
 The list of the expectations above may give an impression that a Project Lead is responsible for literally everything. It shouldn't be true. Let's list a few things that a Project Lead is not expected to do:
 
-### Be responsible for What the team builds
+### ❌ Be responsible for What the team builds
 
 This is the responsibility of a Product Owner. Product Owner works actively with the Project Tech Lead, forming an immediate feedback loop.
 
-### Be accountable for success or failure of the project
+### ❌ Be accountable for success or failure of the project
 
 This is still on the Engineering Manager. If the project fails, the Engineering Manager gets the blame, not the Project Lead.
 
@@ -124,7 +124,7 @@ It's the job of the Engineering Manager to give a Project lead timely feedback a
 
 If the project succeeds, praise goes to the entire team involved, Project Lead included. Extra effort should result into extra reward.
 
-### Do everything themselves
+### ❌ Do everything themselves
 
 As mentioned above, a Project Lead should involve others to succeed.
 
@@ -134,7 +134,7 @@ The model that such teams use is wrong. It discourages collaboration and knowled
 
 Once again, involving the team is more important for a Project Lead than writing the biggest chunk of code. It's an investment in team's sustainability.
 
-### Figure everything out on their own
+### ❌ Figure everything out on their own
 
 It is perfectly normal to get stuck or not to know how to do something. This is when you need a Engineering Manager or another senior colleague.
 
