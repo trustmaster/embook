@@ -11,6 +11,10 @@ _Any Engineer in the team can lead a project. Any project should have a technica
 |**Effort**|Medium|
 |**Scope**|Long-term|
 
+## Infographics
+
+![Infographics](./project-leads.png)
+
 ## Motivation
 
 Typically in many teams an Engineering Manager is responsible, among other things, for collecting technical requirements for initiatives, making high level technical decisions, documenting solutions, setting up communication within the team and with external stakeholders, addressing risks, etc.
@@ -47,8 +51,8 @@ The role comes with a set of responsibilities or expectations. In a nutshell tho
 1. ✋ **Collaborate** to collect all required information
 2. 📑 **Document** the solutions and decisions
 3. 🎫 **Structure** the tasks and provide estimates
-4. 🔄 **Update** the team on the status of the project and risks
-5. 👩‍💻 **Implement** their part of work or **delegate** it
+4. 👩‍💻 **Implement** their part of work or **delegate** it
+5. 🔄 **Update** the team on the status of the project and risks
 6. 🚜 **Unblock** all participants by finding answers
 7. 💕 **Involve** others to achieve all these things!
 
@@ -80,6 +84,12 @@ What can be done for the other disciplines is to nudge them and help with the pr
 
 Any project needs clear, small, and predictable tasks to be successful. That's what this is all about.
 
+### 👩‍💻 Implement their part of work or delegate it
+
+A Project Lead is not supposed to be a full-time manager. One of the reasons they lead the project is their technical expertise in it. So, they should work on actual code in order to understand it better and be even more helpful to other participants.
+
+This doesn't mean that they should burn themselves out if there is simply too much coordination involved. Ask for help and delegate part of the work to others as needed. This is also a great opportunity to improve delegation skills.
+
 ### 🔄 Update the team on the status of the project and risks
 
 Once the project is up and running, it is important to do regular pulse checks and see where it's going. Typical ways to do it are:
@@ -91,12 +101,6 @@ Once the project is up and running, it is important to do regular pulse checks a
 - Send a short update message at the end of the week e.g. in the project Slack channel or email
 
 What should be done if anything goes wrong, or slower than expected? Just communicate it! There is only one thing you can be 100% sure in Software development projects: things won't go as planned. Thus, the only way to succeed is to identify the changes as soon as possible and adapt to them.
-
-### 👩‍💻 Implement their part of work or delegate it
-
-A Project Lead is not supposed to be a full-time manager. One of the reasons they lead the project is their technical expertise in it. So, they should work on actual code in order to understand it better and be even more helpful to other participants.
-
-This doesn't mean that they should burn themselves out if there is simply too much coordination involved. Ask for help and delegate part of the work to others as needed. This is also a great opportunity to improve delegation skills.
 
 ### 🚜 Unblock participants by finding answers
 
