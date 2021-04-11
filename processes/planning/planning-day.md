@@ -37,11 +37,11 @@ The price that your team pays when using this technique is:
 - The team feels like it's a very slow start, and burns energy waiting to do "real stuff"
 - If it gets too comfortable, you don't invest into improving the refinement process
 
-## Recipe
+## Instructions
 
 After this long preamble, let's get to the technique itself!
 
-### Ingredients
+### Preparation
 
 These are pre-requisite components before you go into the planning day:
 
@@ -58,7 +58,7 @@ I recommend structuring the planning day in 3 parts:
 
 Add these as separate time blocks in team's calendar. You can leave the 2nd step and just add the 1st and the 3rd with a gap in between them, so that people manage their own time.
 
-### Instructions
+### Implementation
 
 1. Start the day by announcing and explaining the priorities, make adjustments if the team gives feedback.
 1. Update the _Sprint calendar_ together to make sure it includes all the time off, and that it's clear how much time the team actually has to deliver things.

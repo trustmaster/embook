@@ -33,7 +33,7 @@ Leading the people and cultivating leadership in them.
 
 |Situation|Recipe|
 |---------|------|
-|The tea is stable, but a lot of responsibilities are on manager(s), and team members eager to take ownership|[Project leads](./leadership/project-leads.md)|
+|The tea is stable, but a lot of responsibilities are on manager(s), and team members eager to take ownership|[Project tech leads](./leadership/project-leads.md)|
 
 ## Well-being
 

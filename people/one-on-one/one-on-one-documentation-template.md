@@ -23,27 +23,27 @@ You can copy this template with formatting to a Google Doc or your favorite medi
 
 ### 2020-W01 (Date, type if needed)
 
-#### Follow-up on previous actions
+#### ☑️ Follow-up on previous actions
 
 - 
 
-#### Ups
+#### 😁 Ups
 
 - 
 
-#### Downs
+#### 🙁 Downs
 
 - 
 
-#### Agenda
+#### 📆 Agenda
 
 - 
 
-#### Notes
+#### 📝 Notes
 
 - 
 
-#### Action items
+#### 🎯 Action items
 
 - 
 
@@ -52,28 +52,28 @@ You can copy this template with formatting to a Google Doc or your favorite medi
 
 ### 2020-W01 (Date, type if needed)
 
-#### Follow-up on previous actions
+#### ☑️ Follow-up on previous actions
 
 - [status prefix: done|in progress|rejected|etc.] Action items from a previous 1:1
 
-#### Ups
+#### 😁 Ups
 
 - Highlights of the recent period
 - Positive feedback
 
-#### Downs
+#### 🙁 Downs
 
 - Disappointments of the recent period
 - Negative feedback
 
-#### Agenda
+#### 📆 Agenda
 
 - Pre-defined agenda of the meeting
 
-#### Notes
+#### 📝 Notes
 
 - Notes taken during the meeting
 
-#### Action items
+#### 🎯 Action items
 
 - @Person_name Action item
