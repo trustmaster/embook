@@ -132,9 +132,9 @@ If the project succeeds, praise goes to the entire team involved, Project Lead i
 
 As mentioned above, a Project Lead should involve others to succeed.
 
-I've seen some teams where management rewards people who execute the entire projects end to end. Asking for help is considered as "incompetence" there. Doing everything alone is recognized as "maturity" or "leadership skills". Ideally, each engineer in such a team works in a silo on their own project, while management "seeds ideas" and then waits for the portfolio of projects to be finished.
+In some teams management rewards people who execute the entire projects end to end. Asking for help is considered as "incompetence" there. Doing everything alone is recognized as "maturity" or "leadership skills". Ideally, each engineer in such a team works in a silo on their own project, while management "seeds ideas" and then waits for the portfolio of projects to be finished.
 
-The model that such teams use is wrong. It discourages collaboration and knowledge sharing. It burns engineers out. In the end, they leave the team, and the entire domain expertise is gone with them.
+This is kind of taking the idea and turning it upside down. It discourages collaboration and knowledge sharing. It burns engineers out. In the end, engineers leave the team, and the entire domain expertise is gone with them.
 
 Once again, involving the team is more important for a Project Lead than writing the biggest chunk of code. It's an investment in team's sustainability.
 
