@@ -144,16 +144,17 @@ It is perfectly normal to get stuck or not to know how to do something. This is 
 
 ## Practical results
 
-We tried Project Leads technique in multiple teams over a course of several years. All the expected outcomes were obtained:
+In [HelloFresh](https://engineering.hellofresh.com/) we tried Project Leads technique and its variations in multiple teams over a course of several years. All the expected outcomes were obtained:
 
 - Managers had less coordination and specification work to do
 - The knowledge was spread more equally in the team
 - Team members felt empowered and cared about the product they build
 
-Another positive effect of applying this technique is that all the Project Leads progressed quicker in their career development, and several of them got promoted to the next career step. Including the genesis of new Engineering Managers.
+Another positive effect of applying this technique is that all the Project Leads progressed quicker in their career development, and several of them got promoted to the next career step. Including transitions to Managerial role.
 
 ---
 
 ## References
 
-There's a great article: [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/ "https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/") by Gergely Orosz (from Uber, ex. Microsoft, Skype). I highly recommend it as a further reading.
+1. [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/) by [Gergely Orosz](https://blog.pragmaticengineer.com/).
+2. Turn the Ship Around! by L. David Marquet.

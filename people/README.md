@@ -24,7 +24,6 @@ Supporting career growth.
 
 |Situation|Recipe|
 |---------|------|
-|Kicking off new mentorship relationship|_Mentorship program_|
 |A direct report wants to learn new skills or domains, another team seeks help|_Rotation program_|
 
 ## Leadership
