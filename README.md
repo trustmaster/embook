@@ -39,6 +39,8 @@ For each situation there can be multiple recipes, each recipe describes a set of
 - `Explanation` _(optional)_: if necessary gives reasoning behind the solution
 - `References` _(optional)_: external sources, references, and recommendations
 
+Some entries list articles in italics but there is no link to a page - this means that this is an _idea_ for a future article, but the content is not ready yet. Stay tuned for it to appear.
+
 ## Schedule
 
 _TODO: this section will contain a calendar with recommended regular recurring activities_
