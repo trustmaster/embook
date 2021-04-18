@@ -10,10 +10,21 @@ This mind map represents a compilation of observations and an opinion on what an
 
 More about the job of an EM in [Engineering Manager Role](./engineering-manager-role.md).
 
-## Contents
+## Index
 
+- [Engineering Manager Role](./engineering-manager-role.md)
 - [People](./people)
+    - One-on-one
+        - [One-on-one template](./one-on-one/one-on-one-documentation-template.md)
+    - Leadership
+        - [Project tech leads](./leadership/project-leads.md)
+    - Well-being
+        - [Guess each other by fun facts](./well-being/guess-each-other-by-fun-facts.md)
 - [Processes](./processes)
+    - Planning
+        - [Planning Day](./planning/planning-day.md)
+    - Retrospective
+        - [Dungeons and Dragons Retro](./retrospective/dungeons-and-dragons-retrospective.md)
 
 ## Why a runbook?
 
