@@ -10,6 +10,11 @@ This mind map represents a compilation of observations and an opinion on what an
 
 More about the job of an EM in [Engineering Manager Role](./engineering-manager-role.md).
 
+## Contents
+
+- [People](./people)
+- [Processes](./processes)
+
 ## Why a runbook?
 
 Life of an engineering manager consists of many variables and moving targets, and success often depends on their ability to adapt to reality of the team, the organization, and the market. According to Westrum's organizational culture research, teams driven solely by hard rules enforced from above are not the ones among the top performers. But still, there is a lot of routine and repetitiveness in engineering manager's work, no matter whether the team is mission-driven or process-driven.
@@ -33,11 +38,6 @@ For each situation there can be multiple recipes, each recipe describes a set of
 - `Instructions`: the contents of the recipe or technique, describing what to do step by step or listing available options, etc.
 - `Explanation` _(optional)_: if necessary gives reasoning behind the solution
 - `References` _(optional)_: external sources, references, and recommendations
-
-## Categories
-
-- [People](./people)
-- [Processes](./processes)
 
 ## Schedule
 
