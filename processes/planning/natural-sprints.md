@@ -182,7 +182,7 @@ Something we do in one of the teams is having Retrospectives every 3 weeks, thus
 
 ### Example from a Kanban team
 
-Everything written above uses mostly Scrum context. But is it applicable to Kanban? Yes, and in Kanban it fits even more naturally.
+Everything written above relies mostly on Scrum context. But is it applicable to Kanban? Yes, and in Kanban it fits even more naturally.
 
 Let's say we have a Kanban team with these kinds of meetings:
 
@@ -212,7 +212,7 @@ Friday is time for reflection and celebration before a well-deserved rest on the
 
 ## Why it actually works
 
-Everything that you have read so far may sound very subjective. But is there any data behind it? Yes, there is.
+Everything that you have read so far may sound very subjective. But is there any data behind it? Let's look at some research done in the working days area.
 
 ### Weekly cycle and psychological characteristics
 
@@ -250,6 +250,8 @@ Psychological factors are of course not equivalent to productivity. But there is
 
 ### Weekly cycle and productivity
 
+#### LSE meta-research
+
 A large meta-research on [Productivity and Days of the Week](http://eprints.lse.ac.uk/4963/1/daysoftheweek(LSEROversion).pdf) was published by the London School of Economics and Political Science in 2008. They have studied various research that already existed by the time and tried to answer multiple questions about time and productivity.
 
 We have to omit the details of the original 30-page report and focus on some conclusions that can be drawn from it in the context of Software Engineering teams working 5 days from Monday to Friday.
@@ -272,6 +274,25 @@ The takeaways for us in the context of Natural Sprint rhythm are:
 
 - The most complex and important work happens in the middle of the week
 - The end of the week activities should consider the decrease in productivity
+
+#### Accountemps survey
+
+In 2014 Accountemps, a Robert Half company, posted the [results of the survey](https://www.roberthalf.com/blog/management-tips/productivity-is-timing-everything) that they perform across ~300 Human Resources workers every decade. The main question that they asked to their respondents is how productivity of their employees depend on day of the week and time.
+
+Their conclusions are far more radical than the ones in the LSE research.
+
+![Accountemps: productivity by day of the week](./natural-sprints-accountemps.png)
+_Productivity by day of the week according to HR workers. Source: Accountemps, a Robert Half company_
+
+300 respondents is not a large sample, and many people would argue the representativeness of such a survey. But interestingly, they've been performing the same survey every decade or so, and the results look very consistent over time.
+
+The conclusions made by Accountemps:
+
+- Tuesday is the most productive day
+- Productivity levels decline by Friday
+- Tuesday morning is the most productive time
+- After 4 p.m. focus starts to dissipate
+- Most employees feel more productive after vacation
 
 ### Days of the week and other social and psychological factors
 
@@ -333,6 +354,7 @@ This is something you have to agree on as a team.
 
 ## References
 
+1. Accountemps. [Productivity: Is Timing Everything?](https://mba.americaeconomia.com/sites/mba.americaeconomia.com/files/at0216mscproductivityinfographic-slidesharenamengsec-160229185112_0.pdf)
 1. Bryson, A., Forth, J. [Productivity and days of the week](http://eprints.lse.ac.uk/4963/1/daysoftheweek(LSEROversion).pdf). LSE Online - London School of Economics and Political Science.
 1. Hollis, Liz. [Judgement days](https://www.theguardian.com/money/2007/jul/14/careers.work). The Guardian.
-1. Moskowitz D.S., Brown K.W., Côté S. [Reconceptualizing Stability: Using Time as a Psychological Dimension](https://journals.sagepub.com/doi/pdf/10.1111/1467-8721.ep10772890). Current Directions in Psychological Science (1997) Vol. 6 Issue 6, P.127-132
+1. Moskowitz, D.S., Brown, K.W., Côté, S. [Reconceptualizing Stability: Using Time as a Psychological Dimension](https://journals.sagepub.com/doi/pdf/10.1111/1467-8721.ep10772890). Current Directions in Psychological Science (1997) Vol. 6 Issue 6, P.127-132
