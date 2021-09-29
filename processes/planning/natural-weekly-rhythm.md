@@ -54,13 +54,11 @@ That's why Thursday is the best day for alignment meetings, one-on-ones, retrosp
 
 ### Friday
 
-On Friday people are really looking forward to the weekend. They are tired after all the hard work and want to ease into the weekend. This also means loss of concentration, that's why last-minute changes going to production on Fridays are so frustrating: they often contain bugs, and fixing them urgently is the last thing you want to do on a Friday night.
+On Friday people are really looking forward to the weekend. They are tired after all the hard work and want to ease into the weekend. It results in loss of concentration. That's why last-minute changes going to production on Fridays are so frustrating: they often contain bugs, and fixing them urgently is the last thing you want to do on a Friday night.
+
+Of course this doesn't mean that your team shouldn't write any code on Fridays. But you may want to do more coding on another day instead. These recommendations are about putting accents on certain activities throughout a week, not about banning everything else.
 
 The best use of Fridays would be to review and celebrate progress. Things like demos or review meetings go nicely on Fridays. And it's always good to finish a week with a round of cheers and an informal chat.
-
-### How closely you should follow these instructions
-
-Of course what's written above doesn't dictate what you have to do in your team. Use it as a set of guidelines or recommendations. Don't take it to extreme: it doesn't mean that your team shouldn't work on code on Fridays or that you must not hold any meetings on Tuesdays. It's totally fine to still do both. These recommendations are about putting accents on certain activities throughout a week, not about banning everything else.
 
 ### A note on time batching
 
