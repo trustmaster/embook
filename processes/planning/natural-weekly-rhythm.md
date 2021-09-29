@@ -24,6 +24,8 @@ The problems that Natural Weekly Rhythm can help you solve include:
 - Meetings every day interrupting the focus of the engineers
 - No feeling that the work ever gets "finished", a never ending "flood" of work
 
+This article doesn't consider how long your sprints/iterations should be. It is not specific to Scrum, Kanban or any other methodology. It just focuses on when it is better to schedule certain things.
+
 ## Recommendations
 
 Use the above infographics together with your daily guide on which activities each day is best for.
