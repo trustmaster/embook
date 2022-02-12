@@ -23,6 +23,7 @@ More about the job of an EM in [Engineering Manager Role](./engineering-manager-
 - [Processes](./processes)
     - Planning
         - [Planning Day](./processes/planning/planning-day.md)
+        - [Natural Weekly Rhythm](./processes/planning/natural-weekly-rhythm.md)
     - Retrospective
         - [Dungeons and Dragons Retro](./processes/retrospective/dungeons-and-dragons-retrospective.md)
 

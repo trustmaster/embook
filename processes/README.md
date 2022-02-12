@@ -10,7 +10,7 @@ Structuring team's agile iterations, running the most intense and mission-critic
 |---------|------|
 |Need a basic structure of a planning meeting|_Planning meeting template_|
 |New sprint is starting, but scope is unclear or tasks are not fully prepared|[Planning Day](./planning/planning-day.md)|
-|The team feels exhausted by sprints ending/beginning in the middle of the week|_Natural sprint rhythm_|
+|The time during a week not used effectively|[Natural Weekly Rhythm](./planning/natural-weekly-rhythm.md)|
 |Resuming work after weekend... where did I stop? Where are we going?|_Weekly kick-off_|
 |Struggling to find the right time to fix the bugs|_Zero bugs backlog_|
 
