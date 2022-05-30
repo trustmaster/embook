@@ -19,13 +19,13 @@ _TODO_
 
 Many teams suffer from consistently not achieving their Sprint goals. Especially teams using SCRUM, because setting challenging goals every couple weeks is part of the SCRUM framework.
 
-Have you seen a team that doesn't achieve what they have planned sprint after sprint? Everyone is demotivated, and the manager keeps making a conclusion that "we need to push harder". Next sprint the team pushes harder, doesn't achieve the goals again and gets even more demotivated. This is not a healthy environment, something is fundamentally wrong in such a team.
+Have you seen a team that doesn't achieve what they have planned sprint after sprint? Everyone is demotivated, and the manager keeps concluding that "we need to push harder". Next sprint the team pushes harder, doesn't achieve the goals again and gets even more demotivated. This is not a healthy environment, this is a vicious circle.
 
 Changing the way the goals are set in your team can be a game changer. A team can transform from "the team of losers" to "the team of winners" just in a few weeks. And no, it doesn't come with a cost of delivering less.
 
 ## Problem
 
-Setting goals is a process and a skill rather than something that has a quick and easy answer. In this article we will go over several criteria and tips that will help you set more realistic goals.
+Setting goals is a process and a skill rather than something that has a quick and easy answer. In this article we will go over several criteria and tips that will help you set ambitious yet achievable goals.
 
 We're also going to answer the following typical questions:
 
@@ -61,20 +61,20 @@ Both ways are equally effective and proven to work well. Which approach to use d
 
 ### Sprint planning algorithm
 
-I'll try to describe the goal setting process in a more formalized they, and then we can talk about criteria.
+I'll try to describe the goal setting process in a more formalized way, and then we can talk about criteria.
 
 All the steps below require _team effort_ and are not meant to be pushed top-down by managers. Involve the team in every step so that they _own their goals_ and commit to them.
 
-#### Planning with the goal-first approach
+#### Goal-first planning algorithm
 
 1. Select an ambitious goal for the sprint, using team's Roadmap or some other kind of a strategic plan. Highest priority initiative first
 1. Pull in all the tasks from the Backlog required to achieve that goal
 1. Validate the resulting scope (story points, number of tickets) against prior team velocity, throughput, and the constraints in the upcoming sprint
 1. If the scope of the sprint needs to be reduced, agree on making the goal smaller. Redefine the goal and remove tasks that are not required to achieve the new goal. Repeat from step 3 to validate the new scope
-1. If there is no way to make a smaller goal, or delivering the smaller goal is not reasonable from the strategic point of view, go back to step 1 and pick another goal from the Roadmap.
-1. The work for the current goal is successfully submitted to the sprint. If according to the velocity and available capacity data there is still some space in the sprint, repeat the process for another goal.
+1. If there is no way to make a smaller goal, or delivering the smaller goal is not reasonable from the strategic point of view, go back to step 1 and pick another goal from the Roadmap
+1. The work for the current goal is successfully submitted to the sprint. If according to the velocity and available capacity data there is still space in the sprint, repeat the process for another goal.
 
-#### Planning with the tasks-first approach
+#### Scope-first planning algorithm
 
 1. Select highest priority initiative from the Roadmap or other kind of a strategic plan
 1. Start adding tasks for that initiative into the sprint. Highest priority tasks first
@@ -84,7 +84,7 @@ All the steps below require _team effort_ and are not meant to be pushed top-dow
 
 ## Setting realistic goals
 
-The main message of this post is: the goals have to be _realistic_. The question I ask my team every sprint planning is: _what can we realistically achieve in the next 2 weeks?_
+The main message of this post is: the goals have to be _realistic_. The question I ask my team every sprint planning is: _what can we realistically achieve in the next couple of weeks?_
 
 But how do you know what is realistic and what is not?
 
@@ -92,7 +92,7 @@ But how do you know what is realistic and what is not?
 
 If you have a brand new team then you probably don't have any data on its prior velocity. Or maybe the team is not new and there is data on team's velocity, but you were not there when they achieved or failed at their goals before.
 
-In any case, the first step is to just observe and collect more information. It probably means setting the first goals just by gut feeling, or by the sheer amount of story points. It's fine. The objective is not to nail all the goals 100% of times. The objective is to help the team to get better at achieving what they want to achieve.
+In any case, the first step is to just observe and collect more information. It probably means setting the first goals just by gut feeling, or by sheer amount of story points. It's fine. The objective is not to nail all the goals 100% of times. The objective is to help the team get better at achieving what they want to achieve.
 
 With that in mind, you should start observing how the team sets and delivers on its goals, and collect supplementary data such as velocity or throughput.
 
@@ -104,7 +104,7 @@ Free of judgement, get curious about questions like:
 - What is our average baseline velocity/throughput?
 - What are the factors that predict team's velocity/throughput?
 
-Understanding what the team is capable of and what factor it depends on will help you tell an achievable goal from a non-achievable. Given certain circumstances, of course.
+Understanding what the team is capable of and which factors it depends on will help you tell an achievable goal from a non-achievable. Given certain circumstances, of course.
 
 ### Breaking goals down
 
@@ -114,7 +114,7 @@ It's OK to have something like that if you only run one sprint, or even one mara
 
 Another good reason to break goals down into smaller ones is predictability. Delivering value in chunks is known to be the most reliable and the most productive way. The Lean Software Development movement has published a lot of evidence of that.
 
-So, having a certain vision or a Big Goal, how do split it into smaller chunks? There are multiple ways:
+So, having a certain vision or a Big Goal, how do you split it into smaller chunks? There are multiple ways:
 
 1. Breaking by discipline
 2. Breaking by stages
