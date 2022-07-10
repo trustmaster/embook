@@ -14,18 +14,19 @@ More about the job of an EM in [Engineering Manager Role](./engineering-manager-
 
 - [Engineering Manager Role](./engineering-manager-role.md)
 - [People](./people)
-    - One-on-one
-        - [One-on-one template](./people/one-on-one/one-on-one-documentation-template.md)
-    - Leadership
-        - [Project tech leads](./people/leadership/project-leads.md)
-    - Well-being
-        - [Guess each other by fun facts](./people/well-being/guess-each-other-by-fun-facts.md)
+  - One-on-one
+    - [One-on-one template](./people/one-on-one/one-on-one-documentation-template.md)
+  - Leadership
+    - [Project tech leads](./people/leadership/project-leads.md)
+  - Well-being
+    - [Guess each other by fun facts](./people/well-being/guess-each-other-by-fun-facts.md)
 - [Processes](./processes)
-    - Planning
-        - [Planning Day](./processes/planning/planning-day.md)
-        - [Natural Weekly Rhythm](./processes/planning/natural-weekly-rhythm.md)
-    - Retrospective
-        - [Dungeons and Dragons Retro](./processes/retrospective/dungeons-and-dragons-retrospective.md)
+  - Planning
+    - [Sprint Planning algorithm](./processes/planning/sprint-planning-algorithm.md)
+    - [Natural weekly rhythm](./processes/planning/natural-weekly-rhythm.md)
+    - [Planning Day](./processes/planning/planning-day.md)
+  - Retrospective
+    - [Dungeons and Dragons Retro](./processes/retrospective/dungeons-and-dragons-retrospective.md)
 
 ## Why a runbook?
 
