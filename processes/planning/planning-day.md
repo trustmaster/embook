@@ -2,13 +2,13 @@
 
 Take the first day of the sprint to make sure that the scope is clear to the team and the rest of the sprint goes as smoothly as possible.
 
-|**Purpose**|Fix the lack of prior refinement|
-|---------|-----|
-|**Situation**|A new sprint is starting, but scope is unclear or not all tasks are prepared|
-|**Outcomes**| - The scope of the sprint is clear|
-|| - Fewer interruptions during the sprint|
-|**Effort**|Medium|
-|**Scope**|Short-term|
+| **Purpose**   | Fix the lack of prior refinement                                             |
+| ------------- | ---------------------------------------------------------------------------- |
+| **Situation** | A new sprint is starting, but scope is unclear or not all tasks are prepared |
+| **Outcomes**  | - The scope of the sprint is clear                                           |
+|               | - Fewer interruptions during the sprint                                      |
+| **Effort**    | Medium                                                                       |
+| **Scope**     | Short-term                                                                   |
 
 ## Infographics
 
@@ -73,14 +73,14 @@ Add these as separate time blocks in team's calendar. You can leave the 2nd step
 ### Implementation
 
 1. Start the day by announcing and explaining the priorities, make adjustments if the team gives feedback.
-1. Update the _Sprint calendar_ together to make sure it includes all the time off, and that it's clear how much time the team actually has to deliver things.
-1. Go to the task tracker system, and check what tickets are there and which tickets are missing for the items in the priority list from step 1. Write down what tickets have to be added/estimated and assign specific people to add those. Use common sense in how many things are needed for the sprint, so that you don't refine too far ahead.
-1. Set clear expectation: these missing specs have to be added before the end of the planning day, otherwise the sprint won't start!
-1. ... the team takes their time to find out the missing requirements, create tasks, add estimations, etc. according to your Definition of Ready...
-1. Meet with the team again, and go over the work that they have done in this refinement phase.
-1. Look at the updated backlog together and move the tasks into the sprint considering the _Velocity data_ as a cap. _Note: swap this and the next step around, if your team sets goals first and the scope second._
-1. Agree with the team on the ambitious but realistic goals of the sprint.
-1. Thank everyone for their hard work preparing the sprint, and start it!
+2. Update the _Sprint calendar_ together to make sure it includes all the time off, and that it's clear how much time the team actually has to deliver things.
+3. Go to the task tracker system, and check what tickets are there and which tickets are missing for the items in the priority list from step 1. Write down what tickets have to be added/estimated and assign specific people to add those. Use common sense in how many things are needed for the sprint, so that you don't refine too far ahead.
+4. Set clear expectation: these missing specs have to be added before the end of the planning day, otherwise the sprint won't start!
+5. ... the team takes their time to find out the missing requirements, create tasks, add estimations, etc. according to your Definition of Ready...
+6. Meet with the team again, and go over the work that they have done in this refinement phase.
+7. Look at the updated backlog together and move the tasks into the sprint considering the _Velocity data_ as a cap. _Note: swap this and the next step around, if your team sets goals first and the scope second._
+8. Agree with the team on the ambitious but realistic goals of the sprint.
+9. Thank everyone for their hard work preparing the sprint, and start it!
 
 ## References
 
