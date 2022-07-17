@@ -28,7 +28,7 @@ More about the job of an EM in [Engineering Manager Role](./engineering-manager-
   - Retrospective
     - [Dungeons and Dragons Retro](./processes/retrospective/dungeons-and-dragons-retrospective.md)
 - [Library](./library)
-  - [Awesome collections](./library/resources.md)
+  - [Awesome collections](./library/awesome.md)
   - [Resources for Engineering Managers](./library/resources.md)
 
 ## Why a runbook?
