@@ -15,21 +15,21 @@ More about the job of an EM in [Engineering Manager Role](./engineering-manager-
 - [Engineering Manager Role](./engineering-manager-role.md)
 - [People](./People)
   - Leadership
-    - [Project Tech Leads](./People/Leadership/Project Leads/)
+    - [Project Tech Leads](./People/Leadership/Project%20Leads)
   - One-on-one
-    - [One-on-one Document Template](./People/One-on-one/One-on-one Doc Template/)
+    - [One-on-one Document Template](./People/One-on-one/One-on-one%20Doc%20Template)
   - Well-being
-    - [Guess Each Other by Fun Facts](./People/Well-being/Guess Each Other by Fun Facts/)
+    - [Guess Each Other by Fun Facts](./People/Well-being/Guess%20Each%20Other%20by%20Fun%20Facts)
 - [Processes](./Processes)
   - Planning
-    - [Natural Weekly Rhythm](./Processes/Planning/Natural Weekly Rhythm/)
-    - [Planning Day](./Processes/Planning/Planning Day/)
-    - [Sprint Planning Algorithm](./Processes/Planning/Sprint Planning Algorithm/)
+    - [Natural Weekly Rhythm](./Processes/Planning/Natural%20Weekly%20Rhythm)
+    - [Planning Day](./Processes/Planning/Planning%20Day)
+    - [Sprint Planning Algorithm](./Processes/Planning/Sprint%20Planning%20Algorithm)
   - Retrospective
-    - [Dungeons and Dragons Retro](./Processes/Retrospective/Dungeons and Dragons Retro/)
+    - [Dungeons and Dragons Retro](./Processes/Retrospective/Dungeons%20and%20Dragons%20Retro)
 - [Library](./Library)
-  - [Awesome EM collections](./Library/Awesome EM/)
-  - [Resources for Engineering Managers](./Library/Resources/)
+  - [Awesome EM collections](./Library/Awesome%20EM)
+  - [Resources for Engineering Managers](./Library/Resources)
 
 ## Why a runbook?
 
@@ -37,7 +37,7 @@ Life of an engineering manager consists of many variables and moving targets, an
 
 This runbook is a collection of tips and reminders that I decided to use in my day to day work to reduce the amount of decision making. Or just as a reminder of what worked last time in a similar situation. However, these techniques will not necessarily make you a successful manager. Understanding what is really happening in your team is more important than following any instruction.
 
-It is not supposed to be a textbook or a curated list of links. For that see some nice resources in the [Library](./Library/) section. Rather than that, it only contains short recipes that were tried and proved to work successfully in practice by myself or by people who contributed these recipes. If possible, links to further reading are also provided.
+It is not supposed to be a textbook or a curated list of links. For that see some nice resources in the [Library](./Library) section. Rather than that, it only contains short recipes that were tried and proved to work successfully in practice by myself or by people who contributed these recipes. If possible, links to further reading are also provided.
 
 ## How to read this runbook
 
