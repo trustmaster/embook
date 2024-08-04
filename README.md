@@ -14,18 +14,30 @@ More about the job of an EM in [Engineering Manager Role](./engineering-manager-
 
 - [Engineering Manager Role](./engineering-manager-role.md)
 - [People](./People)
-  - Leadership
-    - [Project Tech Leads](./People/Leadership/Project%20Leads)
-  - One-on-one
+  - [Growth](./People/Growth)
+    - _Clear Career Path (TODO)_
+    - _Mentorship Program (TODO)_
+    - [Project Tech Leads](./People/Growth/Project%20Leads)
+    - _Rotation Program (TODO)_
+  - _Onboarding (TODO)_
+    - _Onboarding Checklist (TODO)_
+    - _Warm Welcome (TODO)_
+  - [One-on-one](./People/One-on-one)
     - [One-on-one Document Template](./People/One-on-one/One-on-one%20Doc%20Template)
-  - Well-being
+    - _Question Bank (TODO)_
+  - [Well-being](./People/Well-being)
     - [Guess Each Other by Fun Facts](./People/Well-being/Guess%20Each%20Other%20by%20Fun%20Facts)
 - [Processes](./Processes)
-  - Planning
+  - [Planning](./Processes/Planning)
+    - _Kick-start the Week (TODO)_
     - [Natural Weekly Rhythm](./Processes/Planning/Natural%20Weekly%20Rhythm)
     - [Planning Day](./Processes/Planning/Planning%20Day)
     - [Sprint Planning Algorithm](./Processes/Planning/Sprint%20Planning%20Algorithm)
-  - Retrospective
+    - _Zero Bugs Backlog (TODO)_
+  - _Refinement (TODO)_
+    - _Cascading Refinement Flow (TODO)_
+    - _Estimate and No-Estimate (TODO)_
+  - [Retrospective](./Processes/Retrospective)
     - [Dungeons and Dragons Retro](./Processes/Retrospective/Dungeons%20and%20Dragons%20Retro)
 - [Library](./Library)
   - [Awesome EM collections](./Library/Awesome%20EM)
